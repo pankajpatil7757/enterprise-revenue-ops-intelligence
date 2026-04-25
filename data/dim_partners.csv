@@ -1,0 +1,26 @@
+partner_id,partner_name,partner_type,region,contract_start,contract_tier
+P1000,Partner 01,Marketplace,West,2024-12-13,Gold
+P1001,Partner 02,3PL,North,2024-08-29,Gold
+P1002,Partner 03,Retailer,South,2024-06-14,Bronze
+P1003,Partner 04,Marketplace,East,2025-02-16,Silver
+P1004,Partner 05,Carrier,East,2025-05-04,Bronze
+P1005,Partner 06,Retailer,North,2025-11-18,Bronze
+P1006,Partner 07,Marketplace,East,2024-11-15,Silver
+P1007,Partner 08,Marketplace,North,2024-04-27,Silver
+P1008,Partner 09,Carrier,West,2025-08-31,Gold
+P1009,Partner 10,3PL,West,2025-04-05,Gold
+P1010,Partner 11,3PL,Central,2025-05-26,Silver
+P1011,Partner 12,Retailer,West,2024-03-12,Silver
+P1012,Partner 13,Marketplace,South,2024-08-16,Silver
+P1013,Partner 14,Marketplace,Central,2025-07-15,Bronze
+P1014,Partner 15,3PL,East,2025-08-31,Silver
+P1015,Partner 16,Carrier,South,2024-11-14,Silver
+P1016,Partner 17,3PL,Central,2025-08-11,Silver
+P1017,Partner 18,Carrier,South,2025-09-07,Silver
+P1018,Partner 19,Marketplace,North,2024-10-10,Gold
+P1019,Partner 20,Marketplace,East,2025-10-18,Silver
+P1020,Partner 21,Marketplace,West,2024-07-29,Gold
+P1021,Partner 22,3PL,North,2024-06-24,Silver
+P1022,Partner 23,Retailer,East,2025-05-13,Bronze
+P1023,Partner 24,Retailer,North,2025-04-10,Gold
+P1024,Partner 25,Marketplace,West,2024-04-12,Gold
